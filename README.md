@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+deployed version is available on : https://62d03dc3e2c1131b6930776c--gym-react-janak.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
